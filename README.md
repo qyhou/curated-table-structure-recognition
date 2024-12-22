@@ -23,7 +23,7 @@ Methods based on heuristic rules is not included.
 
 ## Popular Benchmarks
 
-### PubTabNet Version 2: val / development (9115)
+### PubTabNet Version 2: val / development (9115 samples)
 - Supervised training only using the training set of PubTabNet Version 2 (500777 samples)
 - Evaluation for PubTabNet:
   - [x] High TEDS
@@ -60,10 +60,10 @@ Methods based on heuristic rules is not included.
 | `LGPMA` [LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment](https://arxiv.org/abs/2105.06224)                                              | Hikvision, ZJU                 | 2021-05 | ICDAR-2021               | 94.60                              | 96.70                              | -     |
 | `TableMASTER` [PingAn-VCGroup's Solution for ICDAR 2021 Competition on Scientific Literature Parsing Task B: Table Recognition to HTML](https://arxiv.org/abs/2105.01848)            | Ping An                        | 2021-05 | ICDAR-2021               | 96.18(~~96.84~~)                   | -                                  | -     |
 
-### PubTabNet Version 2: ICDAR-2021-SLP final evaluation (9064)
+### PubTabNet Version 2: ICDAR-2021-SLP final evaluation (9064 samples)
 - It is allowed to use additional third-party data or pre-trained models for performance improvement.
 - HTML tags that define the text style including bold, italic, strike through, superscript, and subscript should be included in the cell content.
-- Due to a problem with the final evaluation data set, bold tags <b> where not considered in the evaluation.
+- Due to a problem with the final evaluation data set, bold tags `<b>` where not considered in the evaluation.
 
 | Paper                                                                                                                                                               | Group      | Date    | Publication               | TEDS                               | TEDS-S | AP-50 |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|:--------|:--------------------------|:-----------------------------------|:-------|:------|
