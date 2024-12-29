@@ -24,6 +24,10 @@ Methods based on heuristic rules is not included.
 ## Popular Benchmarks
 
 ### PubTabNet Version 2: val / development (9115 samples)
+- Links:
+  - [Image-based table recognition: data, model, and evaluation](https://arxiv.org/abs/1911.10683)
+  - [https://github.com/ibm-aur-nlp/PubTabNet](https://github.com/ibm-aur-nlp/PubTabNet)
+  - [https://developer.ibm.com/exchanges/data/all/pubtabnet/](https://developer.ibm.com/exchanges/data/all/pubtabnet/)
 - Supervised training only using the training set of PubTabNet Version 2 (500777 samples)
 - Evaluation for PubTabNet:
   - [x] High TEDS
@@ -61,6 +65,10 @@ Methods based on heuristic rules is not included.
 | `TableMASTER` [PingAn-VCGroup's Solution for ICDAR 2021 Competition on Scientific Literature Parsing Task B: Table Recognition to HTML](https://arxiv.org/abs/2105.01848)            | Ping An                        | 2021-05 | ICDAR-2021               | 96.18(~~96.84~~)                   | -                                  | -     |
 
 ### PubTabNet Version 2: ICDAR-2021-SLP final evaluation (9064 samples)
+- Links:
+  - [ICDAR 2021 Competition on Scientific Literature Parsing](https://arxiv.org/abs/2106.14616)
+  - [https://github.com/IBM/ICDAR2021-SLP](https://github.com/IBM/ICDAR2021-SLP)
+  - [https://github.com/ajjimeno/icdar-task-b](https://github.com/ajjimeno/icdar-task-b)
 - It is allowed to use additional third-party data or pre-trained models for performance improvement.
 - HTML tags that define the text style including bold, italic, strike through, superscript, and subscript should be included in the cell content.
 - Due to a problem with the final evaluation data set, bold tags `<b>` where not considered in the evaluation.
@@ -86,9 +94,13 @@ Methods based on heuristic rules is not included.
 | anyone        |              | 95.23, Simple-96.95, Complex-93.43 |
 | LTIAYN        |              | 94.84, Simple-97.18, Complex-92.40 |
 
-### FinTabNet Version 1.0.0
+### FinTabNet Version 1.0.0 (10635(~~10656~~) samples)
+- Note: The actual number of downloaded val and test samples is contrary to the split described in the paper and metadata.
+- Links:
+  - [Global Table Extractor (GTE): A Framework for Joint Table Identification and Cell Structure Recognition Using Visual Context](https://arxiv.org/abs/2005.00589)
+  - [https://developer.ibm.com/exchanges/data/all/fintabnet/](https://developer.ibm.com/exchanges/data/all/fintabnet/)
 - Supervised training only using the training set of FinTabNet Version 1.0.0 (91596 samples)
-- Evaluation for PubTabNet:
+- Evaluation for FinTabNet:
   - [x] High TEDS
   - [ ] High TEDS-S only: insufficient
 
