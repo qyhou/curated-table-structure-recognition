@@ -54,7 +54,7 @@
 
 ## Bottom-Up
 ### Cell based / Grid based
-- `TableRocket` [TableRocket: An Eﬃcient and Eﬀective Framework for Table Reconstruction](https://link.springer.com/chapter/10.1007/978-981-97-8511-7_25), (UCAS, CAS, Zhongke Fanyu), 2024-11, PRCV-2024
+- `TableRocket` [TableRocket: An Efficient and Effective Framework for Table Reconstruction](https://link.springer.com/chapter/10.1007/978-981-97-8511-7_25), (UCAS, CAS, Zhongke Fanyu), 2024-11, PRCV-2024
 - `ETT` [End to End Table Transformer](https://link.springer.com/chapter/10.1007/978-3-031-70533-5_20), (TLU, VTCC, Sorbonne), 2024-09, ICDAR-2024
 - `LRATNet` [LRATNet: Local-Relationship-Aware Transformer Network for Table Structure Recognition](https://link.springer.com/chapter/10.1007/978-3-031-53308-2_37), (ECNU, SHMTU, SUES), 2024-01, MMM-2024
 - `LORE++` [LORE++: Logical Location Regression Network for Table Structure Recognition with Pre-training](https://arxiv.org/abs/2401.01522), (Alibaba, ZJU), 2024-01, Pattern-Recognition.2025

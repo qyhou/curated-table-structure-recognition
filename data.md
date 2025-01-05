@@ -1,6 +1,7 @@
 # Data
 
 ## Metric
+- [Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner](https://arxiv.org/abs/2412.20662), (USTC, iFLYTEK), 2024-12, arXiv
 - `TEDS_IOU` [Evaluating Table Structure Recognition: A New Perspective](https://arxiv.org/abs/2208.00385), (American Express), 2022-05, DAS-2022
 - `GriTS` [GriTS: Grid table similarity metric for table structure recognition](https://arxiv.org/abs/2203.12555), (Microsoft), 2022-03, ICDAR-2023
 - [Visual Understanding of Complex Table Structures from Document Images](https://arxiv.org/abs/2111.07129), (IIIT), 2021-11, WACV-2022
@@ -14,7 +15,7 @@
 
 ## Dataset
 - `BankTabNet` [TabSniper: Towards Accurate Table Detection & Structure Recognition for Bank Statements](https://arxiv.org/abs/2412.12827), (American Express), 2024-12, CODS-COMAD-2024
-- `TableGrid-940K` [TableRocket: An Eﬃcient and Eﬀective Framework for Table Reconstruction](https://link.springer.com/chapter/10.1007/978-981-97-8511-7_25), (UCAS, CAS, Zhongke Fanyu), 2024-11, PRCV-2024
+- `TableGrid-940K` [TableRocket: An Efficient and Effective Framework for Table Reconstruction](https://link.springer.com/chapter/10.1007/978-981-97-8511-7_25), (UCAS, CAS, Zhongke Fanyu), 2024-11, PRCV-2024
 - `Annual Report TableSet` [RCAM-Transformer: A Novel Approach to Table Reconstruction Using Row-Column Attention Mechanism](https://link.springer.com/chapter/10.1007/978-3-031-70442-0_7), (Foxit), 2024-09, DAS-2024
 - `MUSTARD` [SPRINT: Script-agnostic Structure Recognition in Tables](https://link.springer.com/chapter/10.1007/978-3-031-70549-6_21), (IIT Bombay), 2024-09, ICDAR-2024
 - `DenseTab` [DTSM: Toward Dense Table Structure Recognition with Text Query Encoder and Adjacent Feature Aggregator](https://link.springer.com/chapter/10.1007/978-3-031-70533-5_25), (SCUT), 2024-09, ICDAR-2024
