@@ -39,6 +39,7 @@
 - `CoDec` [Table Structure Recognition Using CoDec Encoder-Decoder](https://link.springer.com/chapter/10.1007/978-3-030-86159-9_5), (Mastercard), 2021-09, ICDAR-Workshop-2021
 - [Rethinking Table Structure Recognition Using Sequence Labeling Methods](https://link.springer.com/chapter/10.1007/978-3-030-86331-9_35), (PKU, Huawei), 2021-09, ICDAR-2021
 - `SEM` [Split, Embed and Merge: An accurate table structure recognizer](https://arxiv.org/abs/2107.05214), (USTC, iFLYTEK), 2021-07, Pattern-Recognition.2022
+- `TGRNet` [TGRNet: A Table Graph Reconstruction Network for Table Structure Recognition](https://arxiv.org/abs/2106.10598), (BJTU, Sydney, JD), 2021-06, ICCV-2021
 - [Guided Table Structure Recognition through Anchor Optimization](https://arxiv.org/abs/2104.10538), (DFKI, TU Kaiserslautern, LTU, Bilojix), 2021-04, IEEE-Access.2021
 - [A Deep Semantic Segmentation Model for Image-based Table Structure Recognition](https://ieeexplore.ieee.org/document/9321003), (PKU), 2020-12, ICSP-2020
 - [Holistic design for deep learning-based discovery of tabular structures in datasheet images](https://www.sciencedirect.com/science/article/pii/S0952197620300440), (uOttawa, ITU, Lytica), 2020-04, Engineering-Applications-of-Artificial-Intelligence.2020
@@ -55,7 +56,7 @@
 ## Bottom-Up
 ### Cell based / Grid based
 - `TableRocket` [TableRocket: An Efficient and Effective Framework for Table Reconstruction](https://link.springer.com/chapter/10.1007/978-981-97-8511-7_25), (UCAS, CAS, Zhongke Fanyu), 2024-11, PRCV-2024
-- `ETT` [End to End Table Transformer](https://link.springer.com/chapter/10.1007/978-3-031-70533-5_20), (TLU, VTCC, Sorbonne), 2024-09, ICDAR-2024
+- `ETT` [End to End Table Transformer](https://link.springer.com/chapter/10.1007/978-3-031-70533-5_20), (Samsung), 2024-09, ICDAR-2024
 - `LRATNet` [LRATNet: Local-Relationship-Aware Transformer Network for Table Structure Recognition](https://link.springer.com/chapter/10.1007/978-3-031-53308-2_37), (ECNU, SHMTU, SUES), 2024-01, MMM-2024
 - `LORE++` [LORE++: Logical Location Regression Network for Table Structure Recognition with Pre-training](https://arxiv.org/abs/2401.01522), (Alibaba, ZJU), 2024-01, Pattern-Recognition.2025
 - `GridFormer` [GridFormer: Towards Accurate Table Structure Recognition via Grid Prediction](https://arxiv.org/abs/2309.14962), (Baidu, SCUT), 2023-09, ACM-MM-2023
@@ -72,7 +73,6 @@
 - `Cycle-CenterNet` [Parsing Table Structures in the Wild](https://arxiv.org/abs/2109.02199), (WHU, Alibaba), 2021-09, ICCV-2021
 - [Adaptive Scaling for Archival Table Structure Recognition](https://link.springer.com/chapter/10.1007/978-3-030-86549-8_6), (CAS, UCAS), 2021-09, ICDAR-2021
 - [Table-structure recognition method using neural networks for implicit ruled line estimation and cell estimation](https://dl.acm.org/doi/10.1145/3469096.3469870), (Okayama, NII), 2021-08, DocEng-2021
-- `TGRNet` [TGRNet: A Table Graph Reconstruction Network for Table Structure Recognition](https://arxiv.org/abs/2106.10598), (BJTU, Sydney, JD), 2021-06, ICCV-2021
 - `TabCellNet` [TabCellNet: Deep learning-based tabular cell structure detection](https://www.sciencedirect.com/science/article/pii/S0925231221001855), (uOttawa, Lytica), 2021-06, Neurocomputing.2021
 - `LGPMA` [LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment](https://arxiv.org/abs/2105.06224), (Hikvision, ZJU), 2021-05, ICDAR-2021
 - [Image-based Table Cell Detection: a Novel Table Structure Decomposition Method with New Dataset](https://ieeexplore.ieee.org/document/9413122), (SJTU), 2021-01, ICPR-2020
