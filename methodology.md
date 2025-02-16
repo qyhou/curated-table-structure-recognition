@@ -119,8 +119,8 @@
 - `SLANet` [PP-StructureV2: A Stronger Document Analysis System](https://arxiv.org/abs/2210.05391), (Baidu), 2022-10, arXiv
 - `TableFormer` [TableFormer: Table Structure Understanding with Transformers](https://arxiv.org/abs/2203.01017), (IBM), 2022-03, CVPR-2022
 - `TRT` [TabLeX: A Benchmark Dataset for Structure and Content Information Extraction from Scientific Tables](https://arxiv.org/abs/2105.06400), (IIT Gandhinagar), 2021-05, ICDAR-2021
-- `TableMASTER` [PingAn-VCGroup's Solution for ICDAR 2021 Competition on Scientific Literature Parsing Task B: Table Recognition to HTML](https://arxiv.org/abs/2105.01848), (Ping An), 2021-05, ICDAR-2021
-- [PingAn-VCGroup's Solution for ICDAR 2021 Competition on Scientific Table Image Recognition to Latex](https://arxiv.org/abs/2105.01846), (Ping An), 2021-05, ICDAR-2021
+- `TableMASTER` [PingAn-VCGroup's Solution for ICDAR 2021 Competition on Scientific Literature Parsing Task B: Table Recognition to HTML](https://arxiv.org/abs/2105.01848), (Ping An), 2021-05, arXiv
+- [PingAn-VCGroup's Solution for ICDAR 2021 Competition on Scientific Table Image Recognition to Latex](https://arxiv.org/abs/2105.01846), (Ping An), 2021-05, arXiv
 - `EDD` [Image-based table recognition: data, model, and evaluation](https://arxiv.org/abs/1911.10683), (IBM), 2019-11, ECCV-2020
 - `TABLE2LATEX` [Challenges in end-to-end neural scientific table recognition](https://ieeexplore.ieee.org/document/8978078), (Harvard, Bloomberg), 2019-09, ICDAR-2019
 - `TableBank` [TableBank: A Benchmark Dataset for Table Detection and Recognition](https://arxiv.org/abs/1903.01949), (BUAA, Microsoft), 2019-03, LREC-2020
