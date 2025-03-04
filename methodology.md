@@ -17,7 +17,7 @@
 - `DTSM` [DTSM: Toward Dense Table Structure Recognition with Text Query Encoder and Adjacent Feature Aggregator](https://link.springer.com/chapter/10.1007/978-3-031-70533-5_25), (SCUT), 2024-09, ICDAR-2024
 - `CRCRNet` [CRCRNet: An Integrated Approach to Table Data Extraction](https://dl.acm.org/doi/10.1145/3672121.3672136), (Jiangsu Frontier Electric Technology), 2024-08, CNCIT-2024
 - `SEMv3` [SEMv3: A Fast and Robust Approach to Table Separation Line Detection](https://arxiv.org/abs/2405.11862), (USTC, iFLYTEK), 2024-05, IJCAI-2024
-- `TSRDet` [Rethinking Detection Based Table Structure Recognition for Visually Rich Document Images](https://arxiv.org/abs/2312.00699), (uOttawa, Lytica), 2023-12, arXiv
+- `TSRDet` [Rethinking Detection Based Table Structure Recognition for Visually Rich Document Images](https://arxiv.org/abs/2312.00699), (uOttawa, Lytica), 2023-12, Expert-Systems-with-Applications.2025
 - `TableStrRec` [TableStrRec: framework for table structure recognition in data sheet images](https://link.springer.com/article/10.1007/s10032-023-00453-8), (uOttawa, Gnowit, Lytica), 2023-09, IJDAR.2023
 - `DRCC` [Divide Rows and Conquer Cells: Towards Structure Recognition for Large Tables](https://www.ijcai.org/proceedings/2023/152), (CAS, UCAS, Hikvision, CUC), 2023-08, IJCAI-2023
 - `Formerge` [Formerge: Recover spanning cells in complex table structure using transformer network](https://link.springer.com/chapter/10.1007/978-3-031-41734-4_32), (VTCC, HCMUT), 2023-08, ICDAR-2023
