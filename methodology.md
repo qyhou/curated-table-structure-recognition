@@ -23,7 +23,7 @@
 - `Formerge` [Formerge: Recover spanning cells in complex table structure using transformer network](https://link.springer.com/chapter/10.1007/978-3-031-41734-4_32), (VTCC, HCMUT), 2023-08, ICDAR-2023
 - `PyramidTabNet` [PyramidTabNet: Transformer based Table Recognition in Image-based Documents](https://link.springer.com/chapter/10.1007/978-3-031-41734-4_26), (NUST, NCAI), 2023-08, ICDAR-2023
 - `TRACE` [TRACE: Table Reconstruction Aligned to Corner and Edges](https://arxiv.org/abs/2305.00630), (Naver, Works Mobile, Upstage, Kakao), 2023-05, ICDAR-2023
-- `TSRFormer DQ-DETR` [Robust Table Structure Recognition with Dynamic Queries Enhanced Detection Transformer](https://arxiv.org/abs/2303.11615), (USTC, Microsoft, SJTU, Alibaba), 2023-03, Pattern-Recognition.2023
+- `TSRFormer(DQ-DETR)` [Robust Table Structure Recognition with Dynamic Queries Enhanced Detection Transformer](https://arxiv.org/abs/2303.11615), (USTC, Microsoft, SJTU, Alibaba), 2023-03, Pattern-Recognition.2023
 - `GrabTab` [Grab What You Need: Rethinking Complex Table Structure Recognition with Flexible Components Deliberation](https://arxiv.org/abs/2303.09174), (Tencent), 2023-03, AAAI-2024
 - `SEMv2` [SEMv2: Table Separation Line Detection Based on Conditional Convolution](https://arxiv.org/abs/2303.04384), (USTC, iFLYTEK), 2023-03, Pattern-Recognition.2024
 - `LRCAANet` [Table Structure Recognition Method Based on Lightweight Network and Channel Attention](https://www.mdpi.com/2079-9292/12/3/673), (QDU), 2023-01, Electronics.2023
@@ -95,6 +95,7 @@
 - `TIES-2.0` [Rethinking Table Recognition using Graph Neural Networks](https://arxiv.org/abs/1905.13391), (NUST, NCAI), 2019-05, ICDAR-2019
 
 ## Image-to-Sequence / End-to-End
+- `OmniParser V2` [OmniParser V2: Structured-Points-of-Thought for Unified Visual Text Parsing and Its Generality to Multimodal Large Language Models](https://arxiv.org/abs/2502.16161), (HUST, Alibaba), 2025-02, arXiv
 - `BGTR` [Enhancing Table Structure Recognition via Bounding Box Guidance](https://link.springer.com/chapter/10.1007/978-3-031-78498-9_15), (SCUT), 2024-12, ICPR-2024
 - `PaliGemma 2` [PaliGemma 2: A Family of Versatile VLMs for Transfer](https://arxiv.org/abs/2412.03555), (Google), 2024-12, arXiv
 - `TableAttention` [Multi-Modal Attention Based on 2D Structured Sequence for Table Recognition](https://link.springer.com/chapter/10.1007/978-981-97-8511-7_27), (CAS, UCAS, Zhongke Fanyu), 2024-11, PRCV-2024
