@@ -55,6 +55,7 @@
 
 ## Bottom-Up
 ### Cell based / Grid based
+- `TableCenterNet` [Towards One-Stage End-to-End Table Structure Recognition with Parallel Regression for Diverse Scenarios](https://arxiv.org/abs/2504.17522), (NCHU), 2025-04, arXiv
 - `TableRocket` [TableRocket: An Efficient and Effective Framework for Table Reconstruction](https://link.springer.com/chapter/10.1007/978-981-97-8511-7_25), (UCAS, CAS, Zhongke Fanyu), 2024-11, PRCV-2024
 - `ETT` [End to End Table Transformer](https://link.springer.com/chapter/10.1007/978-3-031-70533-5_20), (Samsung), 2024-09, ICDAR-2024
 - `LRATNet` [LRATNet: Local-Relationship-Aware Transformer Network for Table Structure Recognition](https://link.springer.com/chapter/10.1007/978-3-031-53308-2_37), (ECNU, SHMTU, SUES), 2024-01, MMM-2024
