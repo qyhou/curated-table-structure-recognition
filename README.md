@@ -18,8 +18,7 @@ Methods based on heuristic rules are not included.
   - Metric
   - Dataset / Benchmark
   - Data Representation
-  - Data Synthesis / Data Generation
-  - Data Augmentation
+  - Data Synthesis / Data Generation / Data Augmentation
 
 ## Popular Benchmarks
 

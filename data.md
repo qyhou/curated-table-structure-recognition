@@ -56,28 +56,26 @@
 - `OTSL` [Optimized Table Tokenization for Table Structure Recognition](https://arxiv.org/abs/2305.03393), (IBM), 2023-05, ICDAR-2023
 - `IM` [Complex Table Structure Recognition in the Wild Using Transformer and Identity Matrix-Based Augmentation](https://link.springer.com/chapter/10.1007/978-3-031-21648-0_37), (SCUT), 2022-11, ICFHR-2022
 
-## Data Synthesis / Data Generation
+## Data Synthesis / Data Generation / Data Augmentation
 - `DWTAL` [OG-HFYOLO :Orientation gradient guidance and heterogeneous feature fusion for deformation table cell instance segmentation](https://arxiv.org/abs/2504.20682), (NCHU), 2025-04, arXiv
 - `SynFinTabs` [SynFinTabs: A Dataset of Synthetic Financial Tables for Information and Table Extraction](https://arxiv.org/abs/2412.04262), (QUB), 2024-12, arXiv
 - `SNSTab` [Enhancing Table Structure Recognition via Bounding Box Guidance](https://link.springer.com/chapter/10.1007/978-3-031-78498-9_15), (SCUT), 2024-12, ICPR-2024
 - [Latent Diffusion for Guided Document Table Generation](https://www.arxiv.org/abs/2408.09800), (IIT Bombay), 2024-08, ICDAR-2024
+- [Uncertainty Quantification in Table Structure Recognition](https://arxiv.org/abs/2407.01731), (ODU), 2024-07, IRI-2024
 - [Synthesizing Realistic Data for Table Recognition](https://arxiv.org/abs/2404.11100), (iWudao, HUST), 2024-04, ICDAR-2024
 - `WEATHERGOV+` [WEATHERGOV+: A Table Recognition and Summarization Dataset to Bridge the Gap Between Document Image Analysis and Natural Language Generation](https://dl.acm.org/doi/10.1145/3573128.3604901), (UVIC), 2023-08, DocEng-2023
-- `ComplexTable` [TableVLM: Multi-modal Pre-training for Table Structure Recognition](https://aclanthology.org/2023.acl-long.137/), (Fudan, IIPL, Hundsun), 2023-07, ACL-2023
-- `WikiTableSet` [Rethinking Image-based Table Recognition Using Weakly Supervised Methods](https://arxiv.org/abs/2303.07641), (NII), 2023-02, ICPRAM-2023
-- `BTF` [BUDDI Table Factory: A toolbox for generating synthetic documents with annotated tables and cells](https://dl.acm.org/doi/10.1145/3570991.3571037), (BUDDI AI), 2023-01, CODS-COMAD-2023
-- `TableGeneration` [TableGeneration](https://github.com/WenmuZhou/TableGeneration), (-), 2022-08, GitHub
-- `SynthTabNet` [TableFormer: Table Structure Understanding with Transformers](https://arxiv.org/abs/2203.01017), (IBM), 2022-03, CVPR-2022
-- `TableRobot` [TableRobot: an automatic annotation method for heterogeneous tables](https://link.springer.com/article/10.1007/s00779-020-01485-1), (BUPT, CAS), 2021-01, Personal-and-Ubiquitous-Computing.2022
-- [Rethinking Table Recognition using Graph Neural Networks](https://arxiv.org/abs/1905.13391), (NUST, NCAI), 2019-05, ICDAR-2019
-
-## Data Augmentation
-- [Uncertainty Quantification in Table Structure Recognition](https://arxiv.org/abs/2407.01731), (ODU), 2024-07, IRI-2024
 - [PyramidTabNet: Transformer based Table Recognition in Image-based Documents](https://link.springer.com/chapter/10.1007/978-3-031-41734-4_26), (NUST, NCAI), 2023-08, ICDAR-2023
 - `TabSynth` [Scene Table Structure Recognition with Segmentation and Key Point Collaboration](https://link.springer.com/chapter/10.1007/978-3-031-41679-8_17), (SCUT, UCL), 2023-08, ICDAR-2023
+- `ComplexTable` [TableVLM: Multi-modal Pre-training for Table Structure Recognition](https://aclanthology.org/2023.acl-long.137/), (Fudan, IIPL, Hundsun), 2023-07, ACL-2023
 - [A large-scale dataset for end-to-end table recognition in the wild](https://arxiv.org/abs/2303.14884), (SCUT, CRRC Times, Pazhou Lab), 2023-02, Data-Descriptor.2023
+- `WikiTableSet` [Rethinking Image-based Table Recognition Using Weakly Supervised Methods](https://arxiv.org/abs/2303.07641), (NII), 2023-02, ICPRAM-2023
+- `BTF` [BUDDI Table Factory: A toolbox for generating synthetic documents with annotated tables and cells](https://dl.acm.org/doi/10.1145/3570991.3571037), (BUDDI AI), 2023-01, CODS-COMAD-2023
 - `TabSplitter` [Complex Table Structure Recognition in the Wild Using Transformer and Identity Matrix-Based Augmentation](https://link.springer.com/chapter/10.1007/978-3-031-21648-0_37), (SCUT), 2022-11, ICFHR-2022
+- `TableGeneration` [TableGeneration](https://github.com/WenmuZhou/TableGeneration), (-), 2022-08, GitHub
+- `SynthTabNet` [TableFormer: Table Structure Understanding with Transformers](https://arxiv.org/abs/2203.01017), (IBM), 2022-03, CVPR-2022
 - [Neural Collaborative Graph Machines for Table Structure Recognition](https://arxiv.org/abs/2111.13359), (Tencent), 2021-11, CVPR-2022
 - [Image-Based Relation Classification Approach for Table Structure Recognition](https://link.springer.com/chapter/10.1007/978-3-030-86331-9_41), (JRI), 2021-09, ICDAR-2021
 - `TabAug` [TabAug: Data Driven Augmentation for Enhanced Table Structure Recognition](https://arxiv.org/abs/2104.14237), (NUST), 2021-04, ICDAR-2021
 - [Image-based Table Cell Detection: a Novel Table Structure Decomposition Method with New Dataset](https://ieeexplore.ieee.org/document/9413122), (SJTU), 2021-01, ICPR-2020
+- `TableRobot` [TableRobot: an automatic annotation method for heterogeneous tables](https://link.springer.com/article/10.1007/s00779-020-01485-1), (BUPT, CAS), 2021-01, Personal-and-Ubiquitous-Computing.2022
+- [Rethinking Table Recognition using Graph Neural Networks](https://arxiv.org/abs/1905.13391), (NUST, NCAI), 2019-05, ICDAR-2019
