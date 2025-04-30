@@ -57,6 +57,7 @@
 - `IM` [Complex Table Structure Recognition in the Wild Using Transformer and Identity Matrix-Based Augmentation](https://link.springer.com/chapter/10.1007/978-3-031-21648-0_37), (SCUT), 2022-11, ICFHR-2022
 
 ## Data Synthesis / Data Generation
+- `DWTAL` [OG-HFYOLO :Orientation gradient guidance and heterogeneous feature fusion for deformation table cell instance segmentation](https://arxiv.org/abs/2504.20682), (NCHU), 2025-04, arXiv
 - `SynFinTabs` [SynFinTabs: A Dataset of Synthetic Financial Tables for Information and Table Extraction](https://arxiv.org/abs/2412.04262), (QUB), 2024-12, arXiv
 - `SNSTab` [Enhancing Table Structure Recognition via Bounding Box Guidance](https://link.springer.com/chapter/10.1007/978-3-031-78498-9_15), (SCUT), 2024-12, ICPR-2024
 - [Latent Diffusion for Guided Document Table Generation](https://www.arxiv.org/abs/2408.09800), (IIT Bombay), 2024-08, ICDAR-2024
