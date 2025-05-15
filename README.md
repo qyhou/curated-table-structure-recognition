@@ -136,22 +136,9 @@ Methods based on heuristic rules are not included.
 - `TABLE2LATEX` [Challenges in end-to-end neural scientific table recognition](https://ieeexplore.ieee.org/document/8978078), (Harvard, Bloomberg), 2019-09, ICDAR-2019
 - `TableBank` [TableBank: A Benchmark Dataset for Table Detection and Recognition](https://arxiv.org/abs/1903.01949), (BUAA, Microsoft), 2019-03, LREC-2020
 
-## 3. Experiments
+## 3. Data
 
-### 3.1 Metric
-- [Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner](https://arxiv.org/abs/2412.20662), (USTC, iFLYTEK), 2024-12, arXiv
-- `TEDS_IOU` [Evaluating Table Structure Recognition: A New Perspective](https://arxiv.org/abs/2208.00385), (American Express), 2022-05, DAS-2022
-- `GriTS` [GriTS: Grid table similarity metric for table structure recognition](https://arxiv.org/abs/2203.12555), (Microsoft), 2022-03, ICDAR-2023
-- [Visual Understanding of Complex Table Structures from Document Images](https://arxiv.org/abs/2111.07129), (IIIT), 2021-11, WACV-2022
-- `EMA, BLEU, WER` [TabLeX: A Benchmark Dataset for Structure and Content Information Extraction from Scientific Tables](https://arxiv.org/abs/2105.06400), (IIT Gandhinagar), 2021-05, ICDAR-2021
-- `TEDS-Struc` [LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment](https://arxiv.org/abs/2105.06224), (Hikvision, ZJU), 2021-05, ICDAR-2021
-- `TEDS` [Image-based table recognition: data, model, and evaluation](https://arxiv.org/abs/1911.10683), (IBM), 2019-11, ECCV-2020
-- `WAvg.F1` [ICDAR 2019 Competition on Table Detection and Recognition (cTDaR)](https://ieeexplore.ieee.org/document/8978120), (PKU, Naver, Founder Group, TU Wien, Bistum Passau), 2019-09, ICDAR-2019
-- `BLEU` [TableBank: A Benchmark Dataset for Table Detection and Recognition](https://arxiv.org/abs/1903.01949), (BUAA, Microsoft), 2019-03, LREC-2020
-- `F1` [ICDAR 2013 Table Competition](https://ieeexplore.ieee.org/document/6628853), (TU Wien, Uni Konstanz, UniCal, Oxford), 2013-08, ICDAR-2013
-- [An open approach towards the benchmarking of table structure recognition systems](https://dl.acm.org/doi/10.1145/1815330.1815345), (DFKI), 2010-06, DAS-2010
-
-### 3.2 Dataset
+### 3.1 Dataset
 - `CISOL` [CISOL: An Open and Extensible Dataset for Table Structure Recognition in the Construction Industry](https://arxiv.org/abs/2501.15469), (Uni Weimar), 2025-01, WACV-2025
 - `BankTabNet` [TabSniper: Towards Accurate Table Detection & Structure Recognition for Bank Statements](https://arxiv.org/abs/2412.12827), (American Express), 2024-12, CODS-COMAD-2024
 - `TableGrid-940K` [TableRocket: An Efficient and Effective Framework for Table Reconstruction](https://link.springer.com/chapter/10.1007/978-981-97-8511-7_25), (UCAS, CAS, Zhongke Fanyu), 2024-11, PRCV-2024
@@ -187,14 +174,7 @@ Methods based on heuristic rules are not included.
 - `ICDAR 2013` [ICDAR 2013 Table Competition](https://ieeexplore.ieee.org/document/6628853), (TU Wien, Uni Konstanz, UniCal, Oxford), 2013-08, ICDAR-2013
 - `UNLV` [An open approach towards the benchmarking of table structure recognition systems](https://dl.acm.org/doi/10.1145/1815330.1815345), (DFKI), 2010-06, DAS-2010
 
-### 3.3 Data Representation
-- [Enhancing Transformer-Based Table Structure Recognition for Long Tables](https://link.springer.com/chapter/10.1007/978-981-97-8511-7_16), (PKU), 2024-11, PRCV-2024
-- [TabPedia: Towards Comprehensive Visual Table Understanding with Concept Synergy](https://arxiv.org/abs/2406.01326), (USTC, ByteDance), 2024-06, NeurIPS-2024
-- [GridFormer: Towards Accurate Table Structure Recognition via Grid Prediction](https://arxiv.org/abs/2309.14962), (Baidu, SCUT), 2023-09, ACM-MM-2023
-- `OTSL` [Optimized Table Tokenization for Table Structure Recognition](https://arxiv.org/abs/2305.03393), (IBM), 2023-05, ICDAR-2023
-- `IM` [Complex Table Structure Recognition in the Wild Using Transformer and Identity Matrix-Based Augmentation](https://link.springer.com/chapter/10.1007/978-3-031-21648-0_37), (SCUT), 2022-11, ICFHR-2022
-
-### 3.4 Data Synthesis / Data Generation / Data Augmentation
+### 3.2 Data Synthesis / Data Generation / Data Augmentation
 - `DWTAL` [OG-HFYOLO :Orientation gradient guidance and heterogeneous feature fusion for deformation table cell instance segmentation](https://arxiv.org/abs/2504.20682), (NCHU), 2025-04, arXiv
 - `SynFinTabs` [SynFinTabs: A Dataset of Synthetic Financial Tables for Information and Table Extraction](https://arxiv.org/abs/2412.04262), (QUB), 2024-12, arXiv
 - `SNSTab` [Enhancing Table Structure Recognition via Bounding Box Guidance](https://link.springer.com/chapter/10.1007/978-3-031-78498-9_15), (SCUT), 2024-12, ICPR-2024
@@ -217,3 +197,23 @@ Methods based on heuristic rules are not included.
 - [Image-based Table Cell Detection: a Novel Table Structure Decomposition Method with New Dataset](https://ieeexplore.ieee.org/document/9413122), (SJTU), 2021-01, ICPR-2020
 - `TableRobot` [TableRobot: an automatic annotation method for heterogeneous tables](https://link.springer.com/article/10.1007/s00779-020-01485-1), (BUPT, CAS), 2021-01, Personal-and-Ubiquitous-Computing.2022
 - [Rethinking Table Recognition using Graph Neural Networks](https://arxiv.org/abs/1905.13391), (NUST, NCAI), 2019-05, ICDAR-2019
+
+### 3.3 Data Representation
+- [Enhancing Transformer-Based Table Structure Recognition for Long Tables](https://link.springer.com/chapter/10.1007/978-981-97-8511-7_16), (PKU), 2024-11, PRCV-2024
+- [TabPedia: Towards Comprehensive Visual Table Understanding with Concept Synergy](https://arxiv.org/abs/2406.01326), (USTC, ByteDance), 2024-06, NeurIPS-2024
+- [GridFormer: Towards Accurate Table Structure Recognition via Grid Prediction](https://arxiv.org/abs/2309.14962), (Baidu, SCUT), 2023-09, ACM-MM-2023
+- `OTSL` [Optimized Table Tokenization for Table Structure Recognition](https://arxiv.org/abs/2305.03393), (IBM), 2023-05, ICDAR-2023
+- `IM` [Complex Table Structure Recognition in the Wild Using Transformer and Identity Matrix-Based Augmentation](https://link.springer.com/chapter/10.1007/978-3-031-21648-0_37), (SCUT), 2022-11, ICFHR-2022
+
+## 4. Metric
+- [Enhancing Table Recognition with Vision LLMs: A Benchmark and Neighbor-Guided Toolchain Reasoner](https://arxiv.org/abs/2412.20662), (USTC, iFLYTEK), 2024-12, arXiv
+- `TEDS_IOU` [Evaluating Table Structure Recognition: A New Perspective](https://arxiv.org/abs/2208.00385), (American Express), 2022-05, DAS-2022
+- `GriTS` [GriTS: Grid table similarity metric for table structure recognition](https://arxiv.org/abs/2203.12555), (Microsoft), 2022-03, ICDAR-2023
+- [Visual Understanding of Complex Table Structures from Document Images](https://arxiv.org/abs/2111.07129), (IIIT), 2021-11, WACV-2022
+- `EMA, BLEU, WER` [TabLeX: A Benchmark Dataset for Structure and Content Information Extraction from Scientific Tables](https://arxiv.org/abs/2105.06400), (IIT Gandhinagar), 2021-05, ICDAR-2021
+- `TEDS-Struc` [LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment](https://arxiv.org/abs/2105.06224), (Hikvision, ZJU), 2021-05, ICDAR-2021
+- `TEDS` [Image-based table recognition: data, model, and evaluation](https://arxiv.org/abs/1911.10683), (IBM), 2019-11, ECCV-2020
+- `WAvg.F1` [ICDAR 2019 Competition on Table Detection and Recognition (cTDaR)](https://ieeexplore.ieee.org/document/8978120), (PKU, Naver, Founder Group, TU Wien, Bistum Passau), 2019-09, ICDAR-2019
+- `BLEU` [TableBank: A Benchmark Dataset for Table Detection and Recognition](https://arxiv.org/abs/1903.01949), (BUAA, Microsoft), 2019-03, LREC-2020
+- `F1` [ICDAR 2013 Table Competition](https://ieeexplore.ieee.org/document/6628853), (TU Wien, Uni Konstanz, UniCal, Oxford), 2013-08, ICDAR-2013
+- [An open approach towards the benchmarking of table structure recognition systems](https://dl.acm.org/doi/10.1145/1815330.1815345), (DFKI), 2010-06, DAS-2010
