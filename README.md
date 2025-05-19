@@ -6,7 +6,21 @@ Methods based on heuristic rules are not included.
 ## Keywords
 "Table Structure Recognition" OR "Table Recognition"
 
-## 1. Survey
+## Table of Contents
+1. Survey / Competition
+2. Methodology
+   - 2.1 Top-Down
+   - 2.2 Bottom-Up
+     - 2.2.1 Cell based / Grid based
+     - 2.2.2 Word based / Text-Line based
+   - 2.3 Image-to-Sequence / End-to-End
+3. Data
+   - 3.1 Dataset
+   - 3.2 Data Synthesis / Data Generation / Data Augmentation
+   - 3.3 Data Representation
+4. Metric
+
+## 1. Survey / Competition
 - [From Detection to Application: Recent Advances in Understanding Scientific Tables and Figures](https://dl.acm.org/doi/10.1145/3657285), (WHU, UNT), 2024-06, ACM-Computing-Surveys.2024
 - [A Review On Table Recognition Based On Deep Learning](https://arxiv.org/abs/2312.04808), (HKUST, Pacific), 2023-12, Neurocomputing.2024
 - [A Study on Reproducibility and Replicability of Table Structure Recognition Methods](https://arxiv.org/abs/2304.10439), (ODU, PSU), 2023-04, ICDAR-2023
