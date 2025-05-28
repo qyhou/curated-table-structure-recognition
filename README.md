@@ -155,6 +155,7 @@ Methods based on heuristic rules are not included.
 ### 3.1 Dataset
 - `CISOL` [CISOL: An Open and Extensible Dataset for Table Structure Recognition in the Construction Industry](https://arxiv.org/abs/2501.15469), (Uni Weimar), 2025-01, WACV-2025
 - `BankTabNet` [TabSniper: Towards Accurate Table Detection & Structure Recognition for Bank Statements](https://arxiv.org/abs/2412.12827), (American Express), 2024-12, CODS-COMAD-2024
+- `OmniDocBench` [OmniDocBench: Benchmarking Diverse PDF Document Parsing with Comprehensive Annotations](https://arxiv.org/abs/2412.07626), (Shanghai AI Lab, Abaka AI, 2077AI), 2024-12, CVPR-2025
 - `TableGrid-940K` [TableRocket: An Efficient and Effective Framework for Table Reconstruction](https://link.springer.com/chapter/10.1007/978-981-97-8511-7_25), (UCAS, CAS, Zhongke Fanyu), 2024-11, PRCV-2024
 - `Annual Report TableSet` [RCAM-Transformer: A Novel Approach to Table Reconstruction Using Row-Column Attention Mechanism](https://link.springer.com/chapter/10.1007/978-3-031-70442-0_7), (Foxit), 2024-09, DAS-2024
 - `MUSTARD` [SPRINT: Script-agnostic Structure Recognition in Tables](https://link.springer.com/chapter/10.1007/978-3-031-70549-6_21), (IIT Bombay), 2024-09, ICDAR-2024
