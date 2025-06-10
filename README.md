@@ -21,8 +21,9 @@ Methods based on heuristic rules are not included.
 4. Metric
 
 ## 1. Survey / Competition
+- [A survey for table recognition based on deep learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231224009251), (Xidian), 2024-10, Neurocomputing.2024
 - [From Detection to Application: Recent Advances in Understanding Scientific Tables and Figures](https://dl.acm.org/doi/10.1145/3657285), (WHU, UNT), 2024-06, ACM-Computing-Surveys.2024
-- [A Review On Table Recognition Based On Deep Learning](https://arxiv.org/abs/2312.04808), (HKUST, Pacific), 2023-12, Neurocomputing.2024
+- [A Review On Table Recognition Based On Deep Learning](https://arxiv.org/abs/2312.04808), (HKUST, Pacific), 2023-12, arXiv
 - [A Study on Reproducibility and Replicability of Table Structure Recognition Methods](https://arxiv.org/abs/2304.10439), (ODU, PSU), 2023-04, ICDAR-2023
 - [Deep learning for table detection and structure recognition: A survey](https://arxiv.org/abs/2211.08469), (AUN, IITU, KazMunayGas, Satbayev, ITI, CBNU), 2022-11, ACM-Computing-Surveys.2024
 - [A survey on table recognition technology](https://dx.doi.org/10.11834/jig.220152), (PKU, Huawei, SCUT), 2022-06, JIG.2022
@@ -34,6 +35,7 @@ Methods based on heuristic rules are not included.
 ## 2. Methodology
 
 ### 2.1 Top-Down
+- `TABLET` [TABLET: Table Structure Recognition using Encoder-only Transformers](https://arxiv.org/abs/2506.07015), (iWudao Tech), 2024-06, ICDAR-2025
 - `TabSniper` [TabSniper: Towards Accurate Table Detection & Structure Recognition for Bank Statements](https://arxiv.org/abs/2412.12827), (American Express), 2024-12, CODS-COMAD-2024
 - `RCAM-Transformer` [RCAM-Transformer: A Novel Approach to Table Reconstruction Using Row-Column Attention Mechanism](https://link.springer.com/chapter/10.1007/978-3-031-70442-0_7), (Foxit), 2024-09, DAS-2024
 - `DTSM` [DTSM: Toward Dense Table Structure Recognition with Text Query Encoder and Adjacent Feature Aggregator](https://link.springer.com/chapter/10.1007/978-3-031-70533-5_25), (SCUT), 2024-09, ICDAR-2024
@@ -161,7 +163,7 @@ Methods based on heuristic rules are not included.
 - `MUSTARD` [SPRINT: Script-agnostic Structure Recognition in Tables](https://link.springer.com/chapter/10.1007/978-3-031-70549-6_21), (IIT Bombay), 2024-09, ICDAR-2024
 - `DenseTab` [DTSM: Toward Dense Table Structure Recognition with Text Query Encoder and Adjacent Feature Aggregator](https://link.springer.com/chapter/10.1007/978-3-031-70533-5_25), (SCUT), 2024-09, ICDAR-2024
 - `WikiDT` [WikiDT: Visual-Based Table Recognition and Question Answering Dataset](https://link.springer.com/chapter/10.1007/978-3-031-70533-5_24), (UC San Diego, Amazon), 2024-09, ICDAR-2024
-- `Chinese financial announcement table benchmark` [Synthesizing Realistic Data for Table Recognition](https://arxiv.org/abs/2404.11100), (iWudao, HUST), 2024-04, ICDAR-2024
+- `Chinese financial announcement table benchmark` [Synthesizing Realistic Data for Table Recognition](https://arxiv.org/abs/2404.11100), (iWudao Tech, HUST), 2024-04, ICDAR-2024
 - `PubTabNet250` [An End-to-End Local Attention Based Model for Table Recognition](https://link.springer.com/chapter/10.1007/978-3-031-41679-8_2), (NII), 2023-08, ICDAR-2023
 - `GenTSR` [A Study on Reproducibility and Replicability of Table Structure Recognition Methods](https://arxiv.org/abs/2304.10439), (ODU, PSU), 2023-04, ICDAR-2023
 - `iFLYTAB` [SEMv2: Table Separation Line Detection Based on Conditional Convolution](https://arxiv.org/abs/2303.04384), (USTC, iFLYTEK), 2023-03, Pattern-Recognition.2024
@@ -195,7 +197,7 @@ Methods based on heuristic rules are not included.
 - `SNSTab` [Enhancing Table Structure Recognition via Bounding Box Guidance](https://link.springer.com/chapter/10.1007/978-3-031-78498-9_15), (SCUT), 2024-12, ICPR-2024
 - [Latent Diffusion for Guided Document Table Generation](https://www.arxiv.org/abs/2408.09800), (IIT Bombay), 2024-08, ICDAR-2024
 - [Uncertainty Quantification in Table Structure Recognition](https://arxiv.org/abs/2407.01731), (ODU), 2024-07, IRI-2024
-- [Synthesizing Realistic Data for Table Recognition](https://arxiv.org/abs/2404.11100), (iWudao, HUST), 2024-04, ICDAR-2024
+- [Synthesizing Realistic Data for Table Recognition](https://arxiv.org/abs/2404.11100), (iWudao Tech, HUST), 2024-04, ICDAR-2024
 - `WEATHERGOV+` [WEATHERGOV+: A Table Recognition and Summarization Dataset to Bridge the Gap Between Document Image Analysis and Natural Language Generation](https://dl.acm.org/doi/10.1145/3573128.3604901), (UVIC), 2023-08, DocEng-2023
 - [PyramidTabNet: Transformer based Table Recognition in Image-based Documents](https://link.springer.com/chapter/10.1007/978-3-031-41734-4_26), (NUST, NCAI), 2023-08, ICDAR-2023
 - `TabSynth` [Scene Table Structure Recognition with Segmentation and Key Point Collaboration](https://link.springer.com/chapter/10.1007/978-3-031-41679-8_17), (SCUT, UCL), 2023-08, ICDAR-2023
