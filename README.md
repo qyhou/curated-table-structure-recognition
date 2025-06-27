@@ -35,7 +35,7 @@ Methods based on heuristic rules are not included.
 ## 2. Methodology
 
 ### 2.1 Top-Down
-- `TABLET` [TABLET: Table Structure Recognition using Encoder-only Transformers](https://arxiv.org/abs/2506.07015), (iWudao Tech), 2024-06, ICDAR-2025
+- `TABLET` [TABLET: Table Structure Recognition using Encoder-only Transformers](https://arxiv.org/abs/2506.07015), (iWudao Tech), 2025-06, ICDAR-2025
 - `TabSniper` [TabSniper: Towards Accurate Table Detection & Structure Recognition for Bank Statements](https://arxiv.org/abs/2412.12827), (American Express), 2024-12, CODS-COMAD-2024
 - `RCAM-Transformer` [RCAM-Transformer: A Novel Approach to Table Reconstruction Using Row-Column Attention Mechanism](https://link.springer.com/chapter/10.1007/978-3-031-70442-0_7), (Foxit), 2024-09, DAS-2024
 - `DTSM` [DTSM: Toward Dense Table Structure Recognition with Text Query Encoder and Adjacent Feature Aggregator](https://link.springer.com/chapter/10.1007/978-3-031-70533-5_25), (SCUT), 2024-09, ICDAR-2024
@@ -155,6 +155,7 @@ Methods based on heuristic rules are not included.
 ## 3. Data
 
 ### 3.1 Dataset
+- `ChemTable` [Benchmarking Multimodal LLMs on Recognition and Understanding over Chemical Tables](https://arxiv.org/abs/2506.11375), (USTC, iFLYTEK), 2025-06, arXiv
 - `CISOL` [CISOL: An Open and Extensible Dataset for Table Structure Recognition in the Construction Industry](https://arxiv.org/abs/2501.15469), (Uni Weimar), 2025-01, WACV-2025
 - `BankTabNet` [TabSniper: Towards Accurate Table Detection & Structure Recognition for Bank Statements](https://arxiv.org/abs/2412.12827), (American Express), 2024-12, CODS-COMAD-2024
 - `OmniDocBench` [OmniDocBench: Benchmarking Diverse PDF Document Parsing with Comprehensive Annotations](https://arxiv.org/abs/2412.07626), (Shanghai AI Lab, Abaka AI, 2077AI), 2024-12, CVPR-2025
